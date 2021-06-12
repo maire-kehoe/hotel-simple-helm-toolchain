@@ -3,7 +3,7 @@ version: "2"
 messages:
   $i18n: locales.yml
 template:
-  name: "Develop a Kubernetes app with Helm 3 - change 1a"
+  name: "Develop a Kubernetes app with Helm 3 - change 2b"
     #$ref: "#/messages/template.name"
   description:
     $ref: "#/messages/template.description"
